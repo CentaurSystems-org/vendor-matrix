@@ -1,0 +1,117 @@
+{
+    "worksCategoriesMatrix": [
+        {
+            "name": "Buildings",
+            "SubCategories": [
+                {
+                    "name" : "Standard Buidings",
+                    "CoreCompetence" : [
+                    "Residential Buildings/Estates" , "Office Buildings"
+                    ]
+                },
+                {
+                    "name" : "Special Purpose",
+                    "CoreCompetence" : [ "High-Rise Buildings", "Hospitals/Health Centers", "Stadia/Other Recreational Facilities", "Agriculture Facilities/ Storage/Grain Silos", "Correctional Facilities(Prisons and Rehabilitation Centres)", "Schools/Libraries/Other Educational Facilities", "Rehabilitation Works" ,"Industrial/Factory Buildings"]
+                },
+                {
+                    "name" : "Services",
+                    "CoreCompetence" : ["Electrical", "Mechanical/Plumbing", "Other Services"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Civil Works",
+            "SubCategories": [
+                {
+                    "name" : "Transportation",
+                    "CoreCompetence" : ["Highways and streets", "Bridges", "Road Tunnels", "Railways and Mass Transit", "Seaports", "Airports", "Motor Parks/Bus Terminals", "Inland Waterways"
+                    ]
+                },
+                {
+                    "name" : "Water",
+                    "CoreCompetence" : ["Water Supply and Reticulation", "Water Storage Systems", "Dams", "Irrigation Systems" 
+                    ]
+                },
+                {
+                    "name" : "Environmental",
+                    "CoreCompetence" : ["Flood/Erosion Control", "Waste Treatment Systems and Plants", "Sewerage Works", "Dredging/Land Reclamation", "Pollution Control(Land, Water & Air)", "Waste Management Disposal Works (e.g. Sanitary landfill )"
+                    ]
+                },
+                {
+                    "name" : "Hydro/Geotechnical",
+                    "CoreCompetence" : ["Foundations", "Earth Structures", "Marine Structures", "Water Boreholes", "Embankment (Earth and Rockfill) Structures"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oil and Gas",
+            "SubCategories": [
+                {
+                    "name" : "Exploration",
+                    "CoreCompetence" : ["Onshore Exploration & Drilling Facilities", "Deepwater Exploration & Drilling Facilities", "Other Oil and Gas Civil Works"
+                    ]
+                },
+                {
+                    "name" : "Transportation",
+                    "CoreCompetence" : ["Oil and Gas Pipeline & Metering facilities", "Oil and Gas Storage and Transport Facilities", "Oil and Gas Export Facilities / LNG Trains"]
+                },
+                {
+                    "name" : "Refining and Marketing",
+                    "CoreCompetence" : ["Oil Refineries", "Fuel Dumps", "Fuel Stations"]
+                }
+            ]
+        },
+        {
+            "name": "Power",
+            "SubCategories": [
+                {
+                    "name" : "Power Generation Plants",
+                    "CoreCompetence" : ["Hydro-electric Plants", "Thermal Power Plants", "Other Renewable Energy Plants(Solar, Wind, Biomass)"
+                    ]
+                },
+                {
+                    "name" : "Power Transmission Facilities",
+                    "CoreCompetence" : ["Transmission Substations", "Transmission Lines"
+                    ]
+                },
+                {
+                    "name" : "Power Distribution Facilities",
+                    "CoreCompetence" : [ "Injection Substations", "Distribution Lines/Networks", "Gas Flow Stations & Pipelines"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Solid Minerals",
+            "SubCategories": [
+                {
+                    "name" : "Extraction Facilities",
+                    "CoreCompetence" : ["Solid Mineral Mines", "Solid Mineral Quarries"
+                    ]
+                },
+                {
+                    "name" : "Processing Facilities",
+                    "CoreCompetence" : ["Minerals Treatment Facilities", "Minerals Grading and Sorting Facilities"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Telecommunications",
+            "SubCategories": [
+                {
+                    "name" : "Telecom Network Facilities",
+                    "CoreCompetence" : ["Telecom Networks", "Telecom Towers", "Telecom Gateway and Switching Centers", "Other Telecom Civil Works"
+                    ]
+                },
+                {
+                    "name" : "Processing Facilities",
+                    "CoreCompetence" : ["Radio and TV Broadcast Facilities", "Satellites and Space Facilities", "Earth Stations"
+                    ]
+                }
+            ]
+        }
+    ]
+}
