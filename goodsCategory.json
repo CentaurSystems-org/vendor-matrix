@@ -1,0 +1,68 @@
+{
+    "goodsCategory":[
+        {
+            "name":"Agricultural Machinery, Equipment & Inputs",
+            "areaOfCompetence":["Agricultural & Farm Materials & Inputs", "Agricultural Machinery & Equipment"]
+        },
+        {
+            "name":"Building/Construction Equipment & Materials",
+            "areaOfCompetence":["Building/Construction Materials", "Earthmoving/Construction Plant & Equipment"]
+        },
+        {
+            "name":"Educational Equipment and Supplies",
+            "areaOfCompetence":[" Educational /School Equipment", "Library Books and Equipment", "Laboratory Equipment", " Teaching Aids and School Supplies "]
+        },
+        {
+            "name":"Food & Beverages",
+            "areaOfCompetence":["Foodstuffs and Supplies", "Drinks, Beverages and Other Refreshments"]
+        },
+        {
+            "name":"Fuel and Lubricants",
+            "areaOfCompetence":["Motor Vehicle Fuel", "Generator Diesel and Lubricants"]
+        },
+        {
+            "name":"Furniture",
+            "areaOfCompetence":["Office Furniture", "Residential Furniture"]
+        },
+        {
+            "name":"Industrial Equipment",
+            "areaOfCompetence":["Fire Safety Equipment", "Canteen/Kitchen Equipment", "Other Industrial Equipment"]
+        },
+        {
+            "name":"ICT Equipment/Software",
+            "areaOfCompetence":["Computer Equipment", "Computer Software/Firmware", "Communications Equipment"]
+        },
+        {
+            "name":"Materials and Supplies",
+            "areaOfCompetence":["Office Stationery/Supplies", "Industrial Supplies", "Computer Supplies / Consumables", "Books, Newspapers, Periodicals", "Kitchen/Catering Supplies"]
+        },
+        {
+            "name":"Medical Equipment",
+            "areaOfCompetence":["Hospital Equipment", "Ambulances", "Drugs and medical supplies"]
+        },
+        {
+            "name":"Office Equipment",
+            "areaOfCompetence":["Office Automation (Printers/Scanners/Copiers)", "Other Office Equipment"]
+        },
+        {
+            "name":"Power Equipment",
+            "areaOfCompetence":["Power Generating Sets", "Solar Power Equipment", "Other Renewable Power Equipment", "Electrical & Electronics Goods"]
+        },
+        {
+            "name":"Security & National Defense (excl military procurement)",
+            "areaOfCompetence":["Security Software & Systems", "Security Hardware & Equipment", "Armoured Vehicles/Armoured Personnel Carriers", "Other Specialized Security Equipment"]
+        },
+        {
+            "name":"Sporting & Physical Training Equipment",
+            "areaOfCompetence":["Sporting Equipment", "Sporting Goods and Supplies"]
+        },
+        {
+            "name":"Transportation Equipment",
+            "areaOfCompetence":["Motor Vehicles/Trucks/Motor Cycles", "Trains(Railway Coaches)", "Aeroplanes/Helicopters", "Boats (Lighters) / Ships"]
+        },
+        {
+            "name":"Water Engineering Equipment and Supplies",
+            "areaOfCompetence":["Water Engineering Equipment (e.g. Pumps, Pipes & fittings)", " Water Treatment Chemicals & Inputs (e.g. Liquid Chlorine, Alum etc"]
+        }
+    ]
+}

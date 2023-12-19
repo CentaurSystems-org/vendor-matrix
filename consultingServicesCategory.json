@@ -2,64 +2,64 @@
     "consultingServicesMatrix" : [
         {
             "name" : "Architecture",
-            "SubCategories" : ["Design Architect", "Project Manager", "Project Consultant"
+            "areaOfCompetence" : ["Design Architect", "Project Manager", "Project Consultant"
             ]
         },
         {
             "name" : "Engineering",
-            "SubCategories" : ["Civil (Structural)", "Civil (Geotechnical)", "Civil (Water)", "Civil (Transportation)", "Civil (Manufacturing Systems)", "Mechanical (Building Mechanical Services)", "Mechanical (Transportation Systems)", "Mechanical (Manufacturing Systems)", "Electrical (Building Electrical Services)", "Electrical (Electronics and Electronic System)", "Electrical (Power Systems)", "Chemical", "Aerospace", "Biomedical", "Petoleum", "Environmental"
+            "areaOfCompetence" : ["Civil (Structural)", "Civil (Geotechnical)", "Civil (Water)", "Civil (Transportation)", "Civil (Manufacturing Systems)", "Mechanical (Building Mechanical Services)", "Mechanical (Transportation Systems)", "Mechanical (Manufacturing Systems)", "Electrical (Building Electrical Services)", "Electrical (Electronics and Electronic System)", "Electrical (Power Systems)", "Chemical", "Aerospace", "Biomedical", "Petoleum", "Environmental"
             ]
         },
         {
             "name" : "Surveying",
-            "SubCategories" : ["Quantity", "Land", "Building Inspection", "Mineral/Soil", "Geophysical/Hydrographic", "Valuation (Estate/Facilities), Valuation (Equipment)"]
+            "areaOfCompetence" : ["Quantity", "Land", "Building Inspection", "Mineral/Soil", "Geophysical/Hydrographic", "Valuation (Estate/Facilities), Valuation (Equipment)"]
         },
         {
             "name" : "Sciences and Investigations",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },
         {
             "name" : "Urban and Regional Planning",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },
         {
             "name" : "Information Technology",
-            "SubCategories" : ["Software Development", "Software Hosting Services", "IT Audit and Security", "IT Infrastructure Services", "IT Strategy Development", "Computer Engineering"]
+            "areaOfCompetence" : ["Software Development", "Software Hosting Services", "IT Audit and Security", "IT Infrastructure Services", "IT Strategy Development", "Computer Engineering"]
         },
         {
             "name" : "Management Services",
-            "SubCategories" : ["Accountancy", "Audit", "Taxation", "Business Cosultancy/Human Capital Development", "Marketing", "Purchasing and Supply Management"]
+            "areaOfCompetence" : ["Accountancy", "Audit", "Taxation", "Business Cosultancy/Human Capital Development", "Marketing", "Purchasing and Supply Management"]
         },
         {
             "name" : "Legal Services",
-            "SubCategories" : ["Lawyers", "Solicitors", "Notaries"]
+            "areaOfCompetence" : ["Lawyers", "Solicitors", "Notaries"]
         },
         {
             "name" : "Medical and Health Services",
-            "SubCategories" : ["Medical Doctors", "Dentists", "Other Specialized Medical Service Providers", "Nurses"]
+            "areaOfCompetence" : ["Medical Doctors", "Dentists", "Other Specialized Medical Service Providers", "Nurses"]
         },
         {
             "name" : "Training and Education",
-            "SubCategories" : ["Local Training Providers", "Foreign Training Providers"]
+            "areaOfCompetence" : ["Local Training Providers", "Foreign Training Providers"]
         },
         {
             "name" : "Social and Community Services",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },
         {
             "name" : "Research and Development",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },
         {
             "name" : "Culture and Entertainment",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },        {
             "name" : "Public Relations and Media",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         },
         {
             "name" : "Graphic Design and Publishing",
-            "SubCategories" : []
+            "areaOfCompetence" : []
         }
     ]
 }

@@ -2,37 +2,37 @@
     "nonConsultingServicesMatrix": [
         {
             "name": "Communication Services",
-            "SubCategories": ["Communication Services", "Internet/Data Services", "Postal Services", "Express Courier Services"
+            "areaOfCompetence": ["Communication Services", "Internet/Data Services", "Postal Services", "Express Courier Services"
             ]
         },
         {
             "name" : "Facilities Rentals",
-            "SubCategories" : ["Building Lease and Rent", "Estate Management"
+            "areaOfCompetence" : ["Building Lease and Rent", "Estate Management"
             ]
         },
         {
             "name" : "Financial Services",
-            "SubCategories" : ["Banking Services", "Insurance Services (Providers)", "Insurance Services (Brokers)", "Insurance Services (Loss Adjusters)", "Investment Services (Investment Managers)", "Insurance Services (Pensions Administrators)", "Insurance Services (Trust and Custodial Services)"]
+            "areaOfCompetence" : ["Banking Services", "Insurance Services (Providers)", "Insurance Services (Brokers)", "Insurance Services (Loss Adjusters)", "Investment Services (Investment Managers)", "Insurance Services (Pensions Administrators)", "Insurance Services (Trust and Custodial Services)"]
         },
         {
             "name" : "Maintenance Services",
-            "SubCategories" : ["Building Maintenance (Building Repairs)", "Building Maintenance (Janitorial/Cleaning Services)", "Building Maintenance (Waste Disposal)", "Building Maintenance (Landscaping Services)", "Furniture Maintenance", "Equipment Maintenance"]
+            "areaOfCompetence" : ["Building Maintenance (Building Repairs)", "Building Maintenance (Janitorial/Cleaning Services)", "Building Maintenance (Waste Disposal)", "Building Maintenance (Landscaping Services)", "Furniture Maintenance", "Equipment Maintenance"]
         },
         {
             "name" : "Media & Comunications Services",
-            "SubCategories" : ["Radio/TV", "Printing Services", "Outdoor/Billboards", "Online/Internet", "Direct Mail", "Door-to-Door Campaigns"]
+            "areaOfCompetence" : ["Radio/TV", "Printing Services", "Outdoor/Billboards", "Online/Internet", "Direct Mail", "Door-to-Door Campaigns"]
         },
         {
             "name": "Security Services",
-            "SubCategories" : ["Building and Facilities", "VIP Protection", "Private Investigative Services"]
+            "areaOfCompetence" : ["Building and Facilities", "VIP Protection", "Private Investigative Services"]
         },
         {
             "name" : "Travel and Hospitality Services",
-            "SubCategories" : ["Travel Reservations and Bookings", "Air Travel", "Car/Bus Hire", "Ship/Water Transport", "Rail Travel", "Hotels and Accommodations", "Food and Catering Services", "Planning and Management"]
+            "areaOfCompetence" : ["Travel Reservations and Bookings", "Air Travel", "Car/Bus Hire", "Ship/Water Transport", "Rail Travel", "Hotels and Accommodations", "Food and Catering Services", "Planning and Management"]
         },
         {
             "name" : "Utilities",
-            "SubCategories" : ["Electricity", "Water"]
+            "areaOfCompetence" : ["Electricity", "Water"]
         }
     ]
 }

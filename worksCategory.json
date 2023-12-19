@@ -2,7 +2,7 @@
     "worksCategoriesMatrix": [
         {
             "name": "Buildings",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Standard Buidings",
                     "CoreCompetence" : [
@@ -22,7 +22,7 @@
         },
         {
             "name": "Civil Works",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Transportation",
                     "CoreCompetence" : ["Highways and streets", "Bridges", "Road Tunnels", "Railways and Mass Transit", "Seaports", "Airports", "Motor Parks/Bus Terminals", "Inland Waterways"
@@ -47,7 +47,7 @@
         },
         {
             "name": "Oil and Gas",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Exploration",
                     "CoreCompetence" : ["Onshore Exploration & Drilling Facilities", "Deepwater Exploration & Drilling Facilities", "Other Oil and Gas Civil Works"
@@ -65,7 +65,7 @@
         },
         {
             "name": "Power",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Power Generation Plants",
                     "CoreCompetence" : ["Hydro-electric Plants", "Thermal Power Plants", "Other Renewable Energy Plants(Solar, Wind, Biomass)"
@@ -85,7 +85,7 @@
         },
         {
             "name": "Solid Minerals",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Extraction Facilities",
                     "CoreCompetence" : ["Solid Mineral Mines", "Solid Mineral Quarries"
@@ -100,7 +100,7 @@
         },
         {
             "name": "Telecommunications",
-            "SubCategories": [
+            "areaOfCompetence": [
                 {
                     "name" : "Telecom Network Facilities",
                     "CoreCompetence" : ["Telecom Networks", "Telecom Towers", "Telecom Gateway and Switching Centers", "Other Telecom Civil Works"
